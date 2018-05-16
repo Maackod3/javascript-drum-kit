@@ -1,0 +1,1 @@
+This is a Javascript drum-kit made by myself after the video courses from wesbos titled 30 days of JavaScript.
